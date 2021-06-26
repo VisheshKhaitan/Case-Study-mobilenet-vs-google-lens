@@ -1,0 +1,62 @@
+  .header
+  {
+    text-align: center;
+    background: blue;
+  }
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .gl
+  {
+    color: yellow;
+  }
+  .vs
+  {
+    color: red;
+  }
+  .mbn
+  {
+    color: orange;
+  }
+  .csvsgl
+  {
+  text-align: center;
+  }
+  .img
+  {
+    width: 30%;
+  }
+  .copy_right_footer
+{
+  color: red;
+  bottom: 0;
+  width: 100%;
+  background-color: yellow;
+  line-height: 3;
+  text-align: center;
+  font-size: 22px;
+}
+#result_tag
+{
+  border-radius: 15px;
+  border-style: solid;
+  background-color: yellow;
+  color: red;
+  width: fit-content;
+  height: 55px;
+  text-align: center;
+}
